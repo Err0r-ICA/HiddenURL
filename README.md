@@ -16,10 +16,10 @@ bash HiddenURL
 ## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/5Nr9wDMm/IMG-20201118-020834-605.jpg)
 
-### 👤 My Accounts 👤
-* [TELEGRAM](https://t.me/kalit3rmux)
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
-* [INSTAGRAM](https://instagram.com/termux_hacking)
+### My Accounts
+
+* [TELEGRAM](https://t.me/DefacErr)
+
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
 <a href="https://github.com/Err0r-ICA/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
